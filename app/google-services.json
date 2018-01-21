@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "796403292494",
+    "firebase_url": "https://fbfirebaseauth-4f8d0.firebaseio.com",
+    "project_id": "fbfirebaseauth-4f8d0",
+    "storage_bucket": "fbfirebaseauth-4f8d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796403292494:android:80c7dd3319750934",
+        "android_client_info": {
+          "package_name": "com.adee.fbfirebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796403292494-cig7vlprd0h7lt4pon3rh7v84ee3dj59.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adee.fbfirebaseauth",
+            "certificate_hash": "7a4241ebd44f6de6304fc87f3c00403690257125"
+          }
+        },
+        {
+          "client_id": "796403292494-ubdak6sdlasm4skrdfc5kn91ig11o9h6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArvA4DRAvq3azpo7xl0I8dFGMbjdRroZ4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "796403292494-ubdak6sdlasm4skrdfc5kn91ig11o9h6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
